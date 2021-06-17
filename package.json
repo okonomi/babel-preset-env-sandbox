@@ -16,6 +16,6 @@
     "webpack-cli": "3.x"
   },
   "browserslist": [
-    "IE 11"
+    "> 2%"
   ]
 }
