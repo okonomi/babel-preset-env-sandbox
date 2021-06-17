@@ -12,8 +12,8 @@
     "babel-loader": "^8.2.2",
     "browserslist": "^4.16.6",
     "core-js": "^3.14.0",
-    "webpack": "4.x",
-    "webpack-cli": "3.x"
+    "webpack": "^5.39.1",
+    "webpack-cli": "^4.7.2"
   },
   "browserslist": [
     "> 2%"
