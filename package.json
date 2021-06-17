@@ -10,7 +10,9 @@
     "@babel/core": "^7.14.6",
     "@babel/preset-env": "^7.14.5",
     "browserslist": "^4.16.6",
-    "core-js": "^3.14.0"
+    "core-js": "^3.14.0",
+    "webpack": "4.x",
+    "webpack-cli": "3.x"
   },
   "browserslist": [
     "IE 11"
