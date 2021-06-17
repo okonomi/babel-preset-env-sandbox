@@ -12,6 +12,7 @@
     "browserslist": "^4.16.6"
   },
   "browserslist": [
-    "> 2%"
+    "> 2%",
+    "IE 11"
   ]
 }
